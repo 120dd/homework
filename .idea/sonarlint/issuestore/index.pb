@@ -9,8 +9,6 @@ B
 tailwind.config.js,0/9/0918cbb76f2c44f223706cec9d31a32cd1177ce4
 A
 postcss.config.js,3/f/3f70684581fd16ab3be77ca959e0138ef3ee8bfb
-B
-src/locale/en.json,a/2/a2921f7ec48c1ae227b07da4624bf0cfe4925d35
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
@@ -20,3 +18,5 @@ A
 package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
 ;
 src/App.css,a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
+A
+public/index.html,f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b

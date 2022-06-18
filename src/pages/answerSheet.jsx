@@ -24,7 +24,7 @@ const AnswerSheet = () => {
     }
     const myAlert = () => {
         for (let i = 0 ; i < Math.round(myNum) ; i ++) {
-            alert(i + 1);
+            alert(`${i + 1} 번째 반복입니다!`);
         }
     }
     
@@ -62,7 +62,7 @@ const AnswerSheet = () => {
                 </div>
                 <div className="bg-gray-500 p-2">
                     현재 객체:<br/>
-                    <div className="px-10">
+                    <div className="px-10 w-52">
                         {JSON.stringify(myObj)}
                     </div>
                 </div>
